@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+'Ingrese los tres valores'
+5
+1
+5
+a,b,c
+6
+2
+1
+p
+5
+a+b+c
+1
+q
+3
+p/3
+7
+0
+1
+3
+q>6
+7
+0
+1
+3
+q=6
+4
+1
+19
+q,' es menor que 6'
+13
+4
+1
+17
+q,' es igual a 6'
+13
+13
+4
+1
+19
+q,' es mayor que 6'
+13
+1
